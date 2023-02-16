@@ -1,4 +1,4 @@
-# CleaningAgentAirport
+# Cleaning Agent Airport
 
 ## Introduction
 This project is aimed at designing a prototype of an automated vacuum cleaner that will be used to clean boarding gate areas in an airport. The airport normally outsources cleaning services, but in a bid to cut costs, they would like to make use of this automated cleaner. The cleaner should make the same number of visits as human cleaners and be able to monitor its performance throughout the day to optimize power consumption.
